@@ -1,0 +1,32 @@
+{
+  "name": "xnet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "formatter": "^0.4.2",
+    "jsonwebtoken": "^9.0.1",
+    "mysql2": "^3.5.2",
+    "node": "^20.5.0",
+    "retry": "^0.13.1",
+    "seed": "^0.4.4",
+    "sequelize": "^6.32.1",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.2.0",
+    "@typescript-eslint/parser": "^6.2.0",
+    "eslint": "^8.45.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.33.0",
+    "prettier": "^3.0.0"
+  }
+}
